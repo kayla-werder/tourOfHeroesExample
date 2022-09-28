@@ -1,4 +1,4 @@
-# Tour oh Heroes Clone Example
+# Tour of Heroes Clone Example
 
 ## Development server
 
